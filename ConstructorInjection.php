@@ -20,7 +20,7 @@ class User{
         return $this->database->getAll('users');
     }
 }
-
+ 
 
 /**
  * Calling the mehtods 
